@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: LB-AUTH-Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mukarram
+Implementation-Vendor-Id: com.lb.auth
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/LB-DB-Service
+Created-By: Maven Integration for Eclipse
+
